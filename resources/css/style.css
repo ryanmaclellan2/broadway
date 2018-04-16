@@ -1,0 +1,52 @@
+html{
+  text-align: center;
+  font-family: helvetica;
+}
+
+h1{
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.nav{
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+.header{
+  background-image: url("/Users/Ryan/Desktop/PROJECTS/broadway2/resources/images/buildingbackground.png")
+}
+
+h2{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+.process h3{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.process p{
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+.header h3{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.footer{
+  font-family: helvetica;
+  text-align: left;
+  color: white
+  font-size: 11px;
+  background-color: dimgray;
+}
